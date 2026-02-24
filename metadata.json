@@ -1,0 +1,7 @@
+{
+  "name": "Factalyze - Professional News Analysis",
+  "description": "Analyze news articles for clickbait, bias, and emotional manipulation using AI. Get neutral versions and related coverage.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
